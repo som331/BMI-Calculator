@@ -32,23 +32,24 @@ A *Flutter* application that helps users calculate their *Body Mass Index (BMI)*
 
 ## 📷 Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/a8d31bd0-44d0-4cad-8b9b-f89ce2f973af" alt="Input Page" width="250"/><br/>
-      <strong>Fig 1: Input Page</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/4b1ab6db-287a-4994-ad8f-db8e0aab3a90" alt="History Page" width="250"/><br/>
-      <strong>Fig 2: History Page</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/0227bdd3-5c84-4334-9025-e00f13f8026e" alt="Analytics Page" width="250"/><br/>
-      <strong>Fig 3: Analytics Page</strong>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td style="text-align: center; border: 1px solid #ccc; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/a8d31bd0-44d0-4cad-8b9b-f89ce2f973af" alt="Input Page" width="250"/><br/>
+        <strong>Fig 1: Input Page</strong>
+      </td>
+      <td style="text-align: center; border: 1px solid #ccc; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/4b1ab6db-287a-4994-ad8f-db8e0aab3a90" alt="History Page" width="250"/><br/>
+        <strong>Fig 2: History Page</strong>
+      </td>
+      <td style="text-align: center; border: 1px solid #ccc; padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/0227bdd3-5c84-4334-9025-e00f13f8026e" alt="Analytics Page" width="250"/><br/>
+        <strong>Fig 3: Analytics Page</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 🧪 Sample Test Data
 
 | Name            | Age | Height (cm) | Weight (kg) | BMI   | Category    |
