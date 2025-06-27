@@ -36,7 +36,7 @@ A *Flutter* application that helps users calculate their *Body Mass Index (BMI)*
   <table style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td style="text-align: center; border: 1px solid #ccc; padding: 10px;">
-        <img src="https://github.com/user-attachments/assets/a8d31bd0-44d0-4cad-8b9b-f89ce2f973af" alt="Input Page" width="250"/><br/>
+        <img src="https://github.com/user-attachments/assets/502c4b34-d8c6-4d02-ab73-9abeda0e0d07" alt="Input Page" width="250"/><br/>
         <strong>Fig 1: Input Page</strong>
       </td>
       <td style="text-align: center; border: 1px solid #ccc; padding: 10px;">
@@ -50,6 +50,8 @@ A *Flutter* application that helps users calculate their *Body Mass Index (BMI)*
     </tr>
   </table>
 </div>
+
+
 ## 🧪 Sample Test Data
 
 | Name            | Age | Height (cm) | Weight (kg) | BMI   | Category    |
