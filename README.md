@@ -32,9 +32,14 @@ A *Flutter* application that helps users calculate their *Body Mass Index (BMI)*
 
 ## 📷 Screenshots
 
-> (Add your own screenshots here after running the app)
 
----
+
+---![WhatsApp Image 2025-06-28 at 03 10 44_00ec84e0](https://github.com/user-attachments/assets/a8d31bd0-44d0-4cad-8b9b-f89ce2f973af)
+
+![WhatsApp Image 2025-06-28 at 03 10 44_c8d236ca](https://github.com/user-attachments/assets/4b1ab6db-287a-4994-ad8f-db8e0aab3a90)
+
+
+![WhatsApp Image 2025-06-28 at 03 10 44_688723d5](https://github.com/user-attachments/assets/0227bdd3-5c84-4334-9025-e00f13f8026e)
 
 ## 🧪 Sample Test Data
 
